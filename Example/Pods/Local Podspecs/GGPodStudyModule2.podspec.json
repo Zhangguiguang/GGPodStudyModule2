@@ -1,19 +1,19 @@
 {
   "name": "GGPodStudyModule2",
-  "version": "0.1.0",
-  "summary": "A short description of GGPodStudyModule2.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/GG/GGPodStudyModule2",
+  "version": "0.0.1",
+  "summary": "MY Pod Test Summary",
+  "description": "My Pod test description...........",
+  "homepage": "https://github.com/Zhangguiguang/GGPodStudyModule2",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "GG": "yuanfeng.zhang@tuya.com"
+    "GG": "15757117987@163.com"
   },
   "source": {
     "git": "https://github.com/GG/GGPodStudyModule2.git",
-    "tag": "0.1.0"
+    "tag": "0.0.1"
   },
   "platforms": {
     "ios": "8.0"
