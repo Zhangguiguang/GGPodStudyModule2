@@ -35,6 +35,13 @@
     return self.label.text;
 }
 
+- (void)setTextColor:(UIColor *)textColor {
+    self.label.textColor = textColor;
+}
+- (UIColor *)textColor {
+    return self.label.textColor;
+}
+
 // Lazy
 
 - (UILabel *)label {

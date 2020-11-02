@@ -13,6 +13,9 @@ NS_ASSUME_NONNULL_BEGIN
 
 @property (copy, nonatomic) NSString *des;
 
+// 0.0.2 支持文本颜色
+@property (strong, nonatomic) UIColor *textColor;
+
 @end
 
 NS_ASSUME_NONNULL_END

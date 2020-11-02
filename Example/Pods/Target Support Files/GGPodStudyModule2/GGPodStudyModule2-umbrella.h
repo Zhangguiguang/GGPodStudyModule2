@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "GGPersonModel.h"
 #import "GGTestView.h"
 
 FOUNDATION_EXPORT double GGPodStudyModule2VersionNumber;
