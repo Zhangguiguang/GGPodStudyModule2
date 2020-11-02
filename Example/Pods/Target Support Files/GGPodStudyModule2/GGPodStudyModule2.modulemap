@@ -1,0 +1,6 @@
+framework module GGPodStudyModule2 {
+  umbrella header "GGPodStudyModule2-umbrella.h"
+
+  export *
+  module * { export * }
+}

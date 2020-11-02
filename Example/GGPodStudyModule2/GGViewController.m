@@ -1,12 +1,13 @@
 //
 //  GGViewController.m
-//  GGPodStudyModule2
+//  GGPodStudyModule1
 //
 //  Created by GG on 11/02/2020.
 //  Copyright (c) 2020 GG. All rights reserved.
 //
 
 #import "GGViewController.h"
+#import <GGTestView.h>
 
 @interface GGViewController ()
 
@@ -17,7 +18,14 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    
+    GGTestView *test = [GGTestView new];
+    test.des = @"HAHAHAH";
+    test.frame = CGRectMake(100, 100, 100, 100);
+    test.backgroundColor = UIColor.lightGrayColor;
+    
+    [self.view addSubview:test];
+    [test sizeToFit];
 }
 
 - (void)didReceiveMemoryWarning

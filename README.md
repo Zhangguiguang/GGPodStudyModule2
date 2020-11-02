@@ -1,4 +1,5 @@
 # GGPodStudyModule2
+用于学习私有Pod、模块化 的 模块代码库
 
 [![CI Status](https://img.shields.io/travis/GG/GGPodStudyModule2.svg?style=flat)](https://travis-ci.org/GG/GGPodStudyModule2)
 [![Version](https://img.shields.io/cocoapods/v/GGPodStudyModule2.svg?style=flat)](https://cocoapods.org/pods/GGPodStudyModule2)
